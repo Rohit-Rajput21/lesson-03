@@ -1,0 +1,17 @@
+body{
+    color:red;
+}
+h1{
+    color:blue;
+}
+h2{
+    color:greenyellow;
+}
+
+#lib-header{
+    color:aqua;
+}
+
+.para{
+    color:aquamarine;
+}
