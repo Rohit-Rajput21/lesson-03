@@ -60,3 +60,41 @@ hr{
 .navigation .nav-brand{
     font-weight: bold;
 }
+/** header **/
+.hero{
+    padding: 2rem;
+    text-align: center;
+}
+.hero .hero-img{
+    max-width:350px;
+    display: block;
+    margin: auto;
+}
+.hero .hero-heading{
+    text-align: center;
+    color:#94a3b8;
+    padding-top: 1rem;
+}
+
+/** Section **/
+.section{
+    padding: 1rem;
+
+}
+.section h3{
+   text-align: center;
+}
+.ow{
+    background-color: #f1f5f9;
+}
+
+/** Footer **/
+footer{
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+}
+.footer .link{
+    color:white;
+}
