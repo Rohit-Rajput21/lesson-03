@@ -26,6 +26,10 @@ hr{
     padding: 0.5rem 1rem;
     border-radius:0.5rem;
 }
+ .link-active
+{
+    font-weight: bold;
+}
 .link-primary{
     background-color: var(--primary-color);
   /**  border-radius: 0.5rem;**/
@@ -94,7 +98,12 @@ footer{
     padding: 2rem 1rem;
     text-align: center;
     color: white;
+    border-top-right-radius: 1rem;
 }
 .footer .link{
     color:white;
+}
+.footer .footer-header{
+    font-size: large;
+    font-weight: bold;
 }
